@@ -1,4 +1,4 @@
-# DQLab-EDA-WORKSHOP
+# DQLab-EDA-WORKSHOP (Mentor Assistant)
 
 ## Project Introduction
 Comprehenive exploratory data analysis with python on advance house price prediction dataset
