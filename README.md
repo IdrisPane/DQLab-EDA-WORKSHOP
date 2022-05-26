@@ -18,6 +18,7 @@ Python :
 - Scipy (Stats)
 - Matplotlib (Data visualization)
 - Seaborn (Data visualization
+-  Pandas profiling (EDA Automation)
 
 ## Dataset link
 kaggle : https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques
